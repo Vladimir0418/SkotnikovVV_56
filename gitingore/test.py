@@ -26,7 +26,7 @@ def zaplist(s, b):
 		return True
 
 
-def test_zaplist1():
+def test_zaplist1():211
 	assert zaplist([1,2,3], [1,2,3]) == True
 
 
